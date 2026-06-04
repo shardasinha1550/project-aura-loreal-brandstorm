@@ -5,6 +5,7 @@
 
 
 ## Overview
+📎 [View Full Pitch Deck](./L'Oreal%20Brandstorm%20submission.pdf)
 
 Project AURA is a strategic innovation proposal developed for the **L'Oréal Brandstorm 2026** competition. It reimagines the luxury fragrance experience by introducing the **Scent Intelligence Layer (SIL)** — an AI-powered ecosystem that personalizes fragrance not just for allure, but for **emotional well-being**.
 
