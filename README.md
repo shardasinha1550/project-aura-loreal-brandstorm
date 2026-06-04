@@ -89,7 +89,7 @@ Transitioning L'Oréal from **one-time transactions** to a **high-margin recurri
 ##  Team
 
 **Sharda Sinha** — BITS Pilani (Pilani Campus)  
-**Serene Soni** — BITS Pilani (Pilani Campus)  
+**Serena Soni** — BITS Pilani (Pilani Campus)  
 **Payasvi Jain** — BITS Pilani (Pilani Campus)  
 Strategy, consumer research, business model design & competitive analysis
 
